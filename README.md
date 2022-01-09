@@ -1,4 +1,4 @@
-<img src="https://gfycat.com/agitatedpotablehousefly" align="right" width="400" height="250">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FnLqcQPtAKoQAAAAC%2Fthor-avenger.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fthor-gifs&tbnid=snU9qqQiN8QdOM&vet=12ahUKEwiMisG0wKX1AhUr57sIHburA2IQMygAegUIARDmAQ..i&docid=llBUTTWQyyk9pM&w=268&h=160&q=hd%20thor%20gif&ved=2ahUKEwiMisG0wKX1AhUr57sIHburA2IQMygAegUIARDmAQ" align="right" width="400" height="250">
 
 ### Hi there 👋 , I'm Enes
 
@@ -37,11 +37,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
-<br />
 
 [website]: https://enesturhan.com
-
+[twitter]: https://twitter.com/EnesEnesturhan9
 [youtube]: https://www.youtube.com/channel/UC5qaEXfSxP6rcrItaolSvZA/featured
 [instagram]: https://www.instagram.com/turhan_enes/
 [linkedin]: https://www.linkedin.com/in/enes-turhan-29731b13b/
