@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FnLqcQPtAKoQAAAAC%2Fthor-avenger.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fthor-gifs&tbnid=snU9qqQiN8QdOM&vet=12ahUKEwiMisG0wKX1AhUr57sIHburA2IQMygAegUIARDmAQ..i&docid=llBUTTWQyyk9pM&w=268&h=160&q=hd%20thor%20gif&ved=2ahUKEwiMisG0wKX1AhUr57sIHburA2IQMygAegUIARDmAQ" align="right" width="400" height="250">
+<img src="https://thumbs.gfycat.com/AgitatedPotableHousefly-max-1mb.gif" align="right" width="400" height="250">
 
 ### Hi there 👋 , I'm Enes
 
