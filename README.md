@@ -4,7 +4,7 @@
 
 ## I'm a Junior Software Engineer
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **.NET Core**, **React**
 
 - 📫 How to reach me **enesturhan9@gmail.com**
 
